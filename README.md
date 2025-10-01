@@ -2,6 +2,7 @@
 This repository is my self-study drafts in .NET Core development.
 
 ## Technology used:
+- C#
 - ASP.NET Core Web API
 - Entity Framework Core
 - Fluent API (ModelBuilder)
